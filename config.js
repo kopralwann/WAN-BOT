@@ -4,6 +4,6 @@ module.exports = {
   OWNER_NAME: 'Bang Kopral',
   OWNER_USERNAME: 'Bangkopral',
   OWNER_ID: '6904837223',
-  MONGO_DB: 'MONGO_DB_URL',
+  MONGO_DB: 'https://cloud.mongodb.com/v2/6802d368310bcb081f4fa9ca#/clusters/starterTemplates',
   DISCLAIMER_LINK: 'https://t.me/November2kLab/4'
 };
